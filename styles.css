@@ -1,0 +1,15 @@
+* {
+    font-family: monospace, Helvetica, sens-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    display: block;
+    margin: 125px;
+}
