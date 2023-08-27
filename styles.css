@@ -13,3 +13,8 @@ a {
     display: block;
     margin: 125px;
 }
+
+img {
+    width: 50%;
+    height: auto;
+}

@@ -2,6 +2,44 @@
     font-family: monospace, Helvetica, sens-serif;
     color: white;
     background-color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.seperator {
+    background-color: rgb(255,255,255,0.95);
+    color: black;
     text-align: center;
 }
 
+.contents {
+    width: 50%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul.contents li {
+    text-align: left;
+}
+
+.list-head {
+    text-align: left;
+}
+
+ul li {
+    margin: 25px;
+}
+
+ol li {
+    margin: 25px;
+    line-height: 25px;
+}
+
+.bold-text {
+    font-weight: 900;
+}
